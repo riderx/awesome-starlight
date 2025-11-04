@@ -46,14 +46,13 @@
 - [starlight-typedoc](https://github.com/HiDeoo/starlight-typedoc) - Generate documentation from TypeScript code using TypeDoc.
 - [starlight-better-badges](https://github.com/HiDeoo/starlight-better-badges) - Enhanced badge components for Starlight.
 - [starlight-i18n](https://github.com/HiDeoo/starlight-i18n) - Enhanced internationalization support for Starlight.
-- [starlight-theme-rapide](https://github.com/withastro/starlight/discussions/1048) - Alternative theme for Starlight.
-- [starlight-algolia](https://github.com/HiDeoo/starlight-algolia) - Algolia search integration for Starlight.
-- [starlight-search](https://github.com/HiDeoo/starlight-search) - Enhanced search functionality for Starlight.
 
 ### Search Integrations
 
 - [Pagefind](https://pagefind.app/) - Default search solution for Starlight (built-in).
 - [Algolia DocSearch](https://docsearch.algolia.com/) - Free search for open-source projects.
+- [starlight-algolia](https://github.com/HiDeoo/starlight-algolia) - Algolia search integration for Starlight.
+- [starlight-search](https://github.com/HiDeoo/starlight-search) - Enhanced search functionality for Starlight.
 
 ### Analytics Integrations
 
@@ -69,7 +68,6 @@
 
 ### Component Collections
 
-- [starlight-utils](https://github.com/lorenzolewis/starlight-utils) - Reusable components for Starlight sites.
 - [Community Components](https://starlight.astro.build/resources/community-content/) - Community-created components and themes.
 
 ## Tutorials & Guides
