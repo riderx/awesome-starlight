@@ -10,7 +10,9 @@
 - [Plugins & Integrations](#plugins--integrations)
 - [Themes & Components](#themes--components)
 - [Tutorials & Guides](#tutorials--guides)
+- [Articles & Case Studies](#articles--case-studies)
 - [Showcases](#showcases)
+- [Videos](#videos)
 - [Tools](#tools)
 - [Community](#community)
 
@@ -30,34 +32,61 @@
 
 ### Community Plugins
 
-- [starlight-blog](https://github.com/HiDeoo/starlight-blog) - Add a blog to your Starlight documentation site.
-- [starlight-links-validator](https://github.com/HiDeoo/starlight-links-validator) - Validate internal links in your Starlight site.
-- [starlight-openapi](https://github.com/HiDeoo/starlight-openapi) - Generate API documentation from OpenAPI/Swagger specifications.
-- [starlight-obsidian](https://github.com/HiDeoo/starlight-obsidian) - Publish Obsidian vaults as Starlight documentation.
-- [starlight-sidebar-topics](https://github.com/HiDeoo/starlight-sidebar-topics) - Organize sidebar items by topics.
-- [starlight-image-zoom](https://github.com/HiDeoo/starlight-image-zoom) - Add zoom functionality to images in your documentation.
-- [starlight-package-managers](https://github.com/HiDeoo/starlight-package-managers) - Display commands for multiple package managers.
-- [starlight-showcases](https://github.com/HiDeoo/starlight-showcases) - Add a showcase section to your documentation.
-- [starlight-site-graph](https://github.com/HiDeoo/starlight-site-graph) - Add an interactive site graph to your documentation.
-- [starlight-view-modes](https://github.com/HiDeoo/starlight-view-modes) - Add view mode controls to your documentation.
-- [starlight-heading-badges](https://github.com/HiDeoo/starlight-heading-badges) - Add badges to headings in your documentation.
-- [starlight-versions](https://github.com/HiDeoo/starlight-versions) - Add versioning support to your documentation.
-- [starlight-utils](https://github.com/lorenzolewis/starlight-utils) - Collection of utility components for Starlight.
-- [starlight-typedoc](https://github.com/HiDeoo/starlight-typedoc) - Generate documentation from TypeScript code using TypeDoc.
-- [starlight-better-badges](https://github.com/HiDeoo/starlight-better-badges) - Enhanced badge components for Starlight.
-- [starlight-i18n](https://github.com/HiDeoo/starlight-i18n) - Enhanced internationalization support for Starlight.
+- [starlight-links-validator](https://github.com/HiDeoo/starlight-links-validator) - Check for broken links in your Starlight pages.
+- [starlight-typedoc](https://github.com/HiDeoo/starlight-typedoc) - Generate Starlight pages from TypeScript using TypeDoc.
+- [starlight-blog](https://github.com/HiDeoo/starlight-blog) - Add a blog to your documentation site.
+- [starlight-openapi](https://github.com/HiDeoo/starlight-openapi) - Create documentation pages from OpenAPI/Swagger specifications.
+- [starlight-obsidian](https://github.com/HiDeoo/starlight-obsidian) - Publish Obsidian vaults in your Starlight site.
+- [starlight-image-zoom](https://github.com/HiDeoo/starlight-image-zoom) - Add zoom capabilities to your documentation images.
+- [starlight-utils](https://github.com/lorenzolewis/starlight-utils) - Extend Starlight with a collection of common utilities.
+- [starlight-view-modes](https://github.com/trueberryless/starlight-view-modes) - Add different view mode capabilities to your documentation website.
+- [starlight-versions](https://github.com/HiDeoo/starlight-versions) - Version your Starlight documentation pages.
+- [star-warp](https://inox-tools.fryuni.dev/star-warp) - Warp-drive through search results in your documentation.
+- [starlight-heading-badges](https://github.com/HiDeoo/starlight-heading-badges) - Add badges to your Markdown and MDX headings.
+- [starlight-site-graph](https://github.com/Fevol/starlight-site-graph) - Add an interactive site graph inside your page's sidebar.
+- [starlight-sidebar-topics](https://github.com/HiDeoo/starlight-sidebar-topics) - Split your documentation into different sections, each with its own sidebar.
+- [starlight-sidebar-topics-dropdown](https://github.com/trueberryless-org/starlight-sidebar-topics-dropdown) - Split your docs page into multiple subpages and switch between them with a dropdown menu.
+- [starlight-cooler-credit](https://github.com/trueberryless-org/starlight-cooler-credit) - Add a nice credit to Starlight or Astro at the bottom of the table of contents.
+- [starlight-contributor-list](https://github.com/trueberryless-org/starlight-contributor-list) - Display a list of all contributors to your project.
+- [starlight-giscus](https://github.com/dragomano/starlight-giscus) - Add Giscus comments to your docs site.
+- [starlight-videos](https://github.com/HiDeoo/starlight-videos) - Enhance your documentation with video guides and courses.
+- [starlight-kbd](https://github.com/HiDeoo/starlight-kbd) - Document keyboard shortcuts with ease.
+- [starlight-view-transitions](https://events-3bg.pages.dev/library/StarlightPlugin/) - Add browser-native cross-document view transitions.
+- [starlight-auto-sidebar](https://github.com/HiDeoo/starlight-auto-sidebar) - Tweak your autogenerated sidebar groups.
+- [starlight-llms-txt](https://github.com/delucis/starlight-llms-txt) - Add llms.txt to your documentation site based on llmstxt.org.
+- [starlight-toc-overview-customizer](https://github.com/trueberryless-org/starlight-toc-overview-customizer) - Tweak Starlight's table of contents with customizable overview title.
+- [starlight-markdown-blocks](https://delucis.github.io/starlight-markdown-blocks/) - Extend Starlight's Markdown asides syntax with custom block types.
+- [starlight-fullview-mode](https://github.com/WindMillCode/starlight-fullview-mode) - Collapse sidebars and expand content for a fullscreen experience.
+- [starlight-scroll-to-top](https://github.com/frostybee/starlight-scroll-to-top) - Add a scroll-to-top button to your documentation site.
+- [starlight-codeblock-fullscreen](https://github.com/frostybee/starlight-codeblock-fullscreen) - Add fullscreen toggle functionality to Expressive Code blocks in your documentation.
+- [starlight-auto-drafts](https://github.com/HiDeoo/starlight-auto-drafts) - Tweak draft pages default behavior and automatically remove sidebar links to draft pages in production mode.
+- [starlight-contextual-menu](https://github.com/corsfix/starlight-contextual-menu) - Add a contextual menu to your Starlight documentation.
+- [starlight-changelogs](https://github.com/HiDeoo/starlight-changelogs) - Display changelogs alongside your project documentation.
+- [starlight-github-alerts](https://github.com/HiDeoo/starlight-github-alerts) - Render GitHub alerts as Starlight asides.
+- [starlight-page-actions](https://github.com/dlcastillop/starlight-page-actions) - Adds page action buttons to your documentation.
+- [starlight-docsearch-typesense](https://github.com/typesense/starlight-docsearch-typesense) - A Typesense-powered alternative to the official Algolia DocSearch plugin.
 
 ### Search Integrations
 
 - [Pagefind](https://pagefind.app/) - Default search solution for Starlight (built-in).
-- [Algolia DocSearch](https://docsearch.algolia.com/) - Free search for open-source projects.
-- [starlight-algolia](https://github.com/HiDeoo/starlight-algolia) - Algolia search integration for Starlight.
-- [starlight-search](https://github.com/HiDeoo/starlight-search) - Enhanced search functionality for Starlight.
+- [Algolia DocSearch](https://starlight.astro.build/guides/site-search/#algolia-docsearch) - Replace Pagefind with Algolia DocSearch.
 
-### Analytics Integrations
+### Community Tools & Integrations
 
+- [FeelBack](https://www.feelback.dev/blog/new-astro-starlight-integration/) - Add a user feedback system to your docs pages.
+- [notion-to-astro](https://github.com/val-town/notion-to-astro) - Convert Notion exports to Astro Starlight docs.
+- [astro-live-code](https://github.com/mattjennings/astro-live-code) - Render your MDX code blocks as interactive components.
+- [starlight-i18n](https://github.com/HiDeoo/starlight-i18n) - Visual Studio Code extension to help translate Starlight pages.
+- [starlight-package-managers](https://github.com/HiDeoo/starlight-package-managers) - Quickly display npm related commands for multiple package managers.
+- [starlight-showcases](https://github.com/HiDeoo/starlight-showcases) - Set of Starlight components to author showcase pages.
+- [@hideoo/starlight-plugin](https://github.com/HiDeoo/generator-starlight-plugin) - A generator to quickly scaffold Starlight plugins.
+- [starlight-to-pdf](https://github.com/Linkerin/starlight-to-pdf) - A CLI tool to convert Starlight websites into PDF files.
+- [astro-plantuml](https://github.com/joesaby/astro-plantuml) - Render PlantUML content in Markdown code blocks.
+- [astro-mermaid](https://github.com/joesaby/astro-mermaid) - Client-side render Mermaid content in Markdown code blocks.
+- [astro-d2](https://github.com/HiDeoo/astro-d2) - Transform D2 Markdown code blocks into diagrams.
+- [starlight-links](https://github.com/HiDeoo/starlight-links) - Visual Studio Code extension providing IntelliSense for Starlight Markdown and MDX content links.
+- [contentisland-cli](https://docs.contentisland.net/templates/starlight/) - Connect and sync your Starlight project to Content Island Headless CMS.
 - [@astrojs/partytown](https://docs.astro.build/en/guides/integrations-guide/partytown/) - Load analytics scripts in a web worker.
-- [Astro integration guides](https://docs.astro.build/en/guides/integrations-guide/) - Various analytics integrations compatible with Starlight.
 
 ## Themes & Components
 
@@ -76,6 +105,7 @@
 
 - [Official Tutorial](https://starlight.astro.build/getting-started/) - Step-by-step guide to build your first Starlight site.
 - [Astro Tutorial](https://docs.astro.build/en/tutorial/0-introduction/) - Learn Astro fundamentals.
+- [Publishing Documentation with Astro Starlight](https://dev.to/mrrobot/publishing-documentation-with-astro-starlight-691) - Getting started with Starlight documentation.
 
 ### Deployment
 
@@ -97,6 +127,30 @@
 - [Environment Variables](https://starlight.astro.build/guides/environment-variables/) - Configure environment variables.
 - [Project Structure](https://starlight.astro.build/guides/project-structure/) - Understanding Starlight's file structure.
 
+### Recipes & How-To Guides
+
+- [Versioned documentation with Starlight & Vercel](https://www.webpro.nl/scraps/versioned-docs-with-starlight-and-vercel) - Implement separate versions of documentation for each major version.
+- [Add links to Starlight headings](https://hideoo.dev/notes/starlight-heading-links) - Use a rehype plugin to share links to specific sections.
+- [Add sponsors to your Starlight site](https://blog.otterlord.dev/posts/starlight-sponsors/) - Implement a custom sponsors component in your documentation sidebar.
+- [Add Open Graph images to Starlight](https://hideoo.dev/notes/starlight-og-images) - Generate social images and corresponding meta tags.
+- [Use third-party icon sets in Starlight](https://hideoo.dev/notes/starlight-third-party-icon-sets) - Use unplugin-icons to expand available icons.
+- [Edit the HTML head of Starlight pages](https://hideoo.dev/notes/starlight-custom-html-head) - Add web analytics, fonts, and scripts.
+- [Enable View Transitions](https://events-3bg.pages.dev/jotter/starlight/guide/) - Get SPA-like look and feel with view transitions support.
+- [Adding Structured Data to Starlight Pages](https://jamcomments.com/posts/structured-data-with-starlight) - Build dynamic JSON-LD structured data.
+- [Starlight Examples](https://starlight-examples.netlify.app/) - Collection of StackBlitz embeds demonstrating practical ways of doing stuff.
+- [Starlight Plugins by Example](https://hideoo.dev/notebooks/starlight-plugins-by-example) - Notes and examples about Starlight plugins and common patterns.
+- [Add a reading progress indicator](https://blog.trueberryless.org/blog/starlight-progress-indicator/) - Add a horizontal reading progress bar.
+
+## Articles & Case Studies
+
+- [Static Site Generation with Starlight](https://devm.io/open-source/starlight-astro) - Interview with Chris Swithinbank, Starlight Lead.
+- [Hybrid Frontend Architecture with Astro and Starlight](https://frontendatscale.com/blog/hybrid-frontend-architecture/) - Build docs with Starlight, TinaCMS, and an interactive API Playground.
+- [Comparing docs site builders: VuePress vs Starlight](https://www.olets.dev/posts/comparing-docs-site-builders-vuepress-vs-starlight/) - How these two frameworks measure up.
+- [Case Study: Slashing Development Costs](https://astro.build/case-studies/wp-engine/) - How WP Engine lowered development costs by over 50% with Starlight.
+- [Building a documentation site using Astro Starlight](https://maciekpalmowski.dev/blog/building-a-documentation-site-using-astro-starlight/) - How Patchstack migrated their documentation to Starlight.
+- [Open source all the way down](https://blog.cloudflare.com/open-source-all-the-way-down-upgrading-our-developer-documentation/) - How Cloudflare upgraded their developer documentation with Starlight.
+- [Starlight Changelog](https://starlight-changelog.netlify.app/) - View all releases of @astrojs/starlight on a single page.
+
 ## Showcases
 
 Sites built with Starlight:
@@ -106,6 +160,22 @@ Sites built with Starlight:
 - [Houston](https://houston.astro.build/) - Astro's Discord bot documentation.
 - [Expressive Code](https://expressive-code.com/) - Documentation for Expressive Code.
 - [Showcase Collection](https://starlight.astro.build/showcase/) - Official showcase of Starlight sites.
+
+## Videos
+
+### Official Videos
+
+- [Starlight by Astro](https://www.youtube.com/watch?v=5u0Ds7wzUeI) - Watch the official Starlight launch video.
+- [SUB 1 MINUTE RUN](https://www.youtube.com/shorts/zjOWezSzd18) - Watch Ben launch a new Starlight site in under a minute.
+
+### Community Videos
+
+- [Building docs with Starlight and Astro](https://www.youtube.com/watch?v=sF6UcV3moZg) - Chris and Alex dive into Starlight on Code with CodingCat.dev.
+- [Astro Starlight](https://www.youtube.com/watch?v=sWkkHbwDeQc) - Introduction to Starlight in under a minute.
+- [Astro Starlight Documentation Template](https://www.youtube.com/watch?v=-Ki-1E5gNCk) - Get a new Starlight site up and running in about 5 minutes.
+- [Include Starlight docs in a Next.js project with proxies](https://www.youtube.com/watch?v=12o7WxjAxjM) - Set up Starlight as a sub-directory project inside a Next.js website.
+- [I Recreated Shadcn's Docs In 30 Minutes](https://www.youtube.com/watch?v=5pq80drDrNs) - What makes Starlight so cool and why you may want to give it a try.
+- [Astro Starlight and emoji-blast with Chris Swithinbank](https://www.youtube.com/watch?v=Q1E4Gkt63ko) - Chris walks through setting up Starlight for a new emoji-blast website.
 
 ## Tools
 
