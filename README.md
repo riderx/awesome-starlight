@@ -8,7 +8,8 @@
 
 - [Official Resources](#official-resources)
 - [Plugins & Integrations](#plugins--integrations)
-- [Themes & Components](#themes--components)
+- [Themes](#themes)
+- [Components](#components)
 - [Tutorials & Guides](#tutorials--guides)
 - [Articles & Case Studies](#articles--case-studies)
 - [Showcases](#showcases)
@@ -98,7 +99,27 @@
 - [@pasqal-io/starlight-client-mermaid](https://www.npmjs.com/package/@pasqal-io/starlight-client-mermaid) - Client-side support for Mermaid diagrams in Starlight.
 - [starlight-openapi-rapidoc](https://www.npmjs.com/package/starlight-openapi-rapidoc) - Starlight plugin to generate documentation from OpenAPI/Swagger specifications + RapiDoc.
 
-## Themes & Components
+## Themes
+
+### Discover themes
+
+- [Official Themes Page](https://starlight.astro.build/resources/themes/) - The most up-to-date list of all themes.
+- [Starlight Themes Demo](https://starlight-themes.netlify.app/) - Preview a list of all themes below or try them out interactively.
+
+### List of themes
+
+- [Starlight Theme Rapide](https://starlight-theme-rapide.vercel.app/) - Starlight theme inspired by the Visual Studio Code Vitesse theme.
+- [Starlight Theme Obsidian](https://fevol.github.io/starlight-theme-obsidian/) - Starlight theme inspired by the style of Obsidian Publish sites.
+- [Starlight Theme Catppuccin](https://starlight.catppuccin.com/) - Soothing pastel theme for Starlight.
+- [Starlight Theme Ion](https://louisescher.github.io/starlight-ion-theme/) - A sleek, modern theme for Starlight.
+- [Starlight Theme Black](https://starlight-theme-black.vercel.app/) - Starlight theme inspired by shadcn docs.
+- [Starlight Theme Flexoki](https://delucis.github.io/starlight-theme-flexoki/) - A warm and friendly theme based on the Flexoki color palette.
+- [Starlight Theme Nova](https://starlight-theme-nova.pages.dev/) - A modern and beautiful theme for Starlight.
+- [Starlight Theme Next.js](https://starlight-theme-next.trueberryless.org/) - Starlight theme inspired by the Next.js docs.
+- [Starlight Theme Galaxy](https://frostybee.github.io/starlight-theme-galaxy/) - Starlight theme tailored for publishing documentation and educational content.
+- [Starlight Theme Page](https://pelagornis-page.netlify.app/) - An intuitive, modern Starlight theme with smooth, float-in animations.
+
+## Components
 
 ### Custom Components
 
@@ -150,6 +171,9 @@
 - [Starlight Examples](https://starlight-examples.netlify.app/) - Collection of StackBlitz embeds demonstrating practical ways of doing stuff.
 - [Starlight Plugins by Example](https://hideoo.dev/notebooks/starlight-plugins-by-example) - Notes and examples about Starlight plugins and common patterns.
 - [Add a reading progress indicator](https://blog.trueberryless.org/blog/starlight-progress-indicator/) - Add a horizontal reading progress bar.
+- [Autogenerate Starlight sidebars](https://blog.trueberryless.org/blog/starlight-autogenerate-whole-sidebar/) - Use middleware and your own convention to make autogenerating the sidebar easier.
+- [Starlight Topics Dropdown on mobile, List on desktop](https://blog.trueberryless.org/blog/starlight-dropdown-and-list-together/) - Combine two plugins to have the best of both on desktop and mobile devices.
+- [Make your Starlight sidebar items look better](https://blog.trueberryless.org/blog/starlight-sidebar-whitespace/) - Using a little bit of CSS to adjust fonts, colours and more of the Starlight sidebar.
 
 ## Articles & Case Studies
 
