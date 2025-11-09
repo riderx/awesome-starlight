@@ -66,9 +66,6 @@
 - [starlight-github-alerts](https://github.com/HiDeoo/starlight-github-alerts) - Render GitHub alerts as Starlight asides.
 - [starlight-page-actions](https://github.com/dlcastillop/starlight-page-actions) - Adds page action buttons to your documentation.
 - [starlight-docsearch-typesense](https://github.com/typesense/starlight-docsearch-typesense) - A Typesense-powered alternative to the official Algolia DocSearch plugin.
-- [starlight-theme-obsidian](https://github.com/Fevol/starlight-theme-obsidian) - Starlight theme inspired by the style of Obsidian Publish sites.
-- [starlight-theme-flexoki](https://github.com/delucis/starlight-theme-flexoki) - Starlight theme based on the Flexoki colour palette.
-- [catppuccin-starlight](https://github.com/catppuccin/starlight) - Soothing pastel theme for Starlight.
 - [starlight-markdown](https://github.com/reynaldichernando/starlight-markdown) - Generate Markdown files from your Starlight documentation.
 - [starlight-to-pdf](https://github.com/Linkerin/starlight-to-pdf) - CLI tool to convert Starlight websites into PDF files.
 - [starlight-plugin-icons](https://www.npmjs.com/package/starlight-plugin-icons) - Add icons to Astro Starlight: sidebar, codeblocks, file tree.
