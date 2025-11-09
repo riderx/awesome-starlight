@@ -152,7 +152,6 @@
 ### Advanced Topics
 
 - [Manual Setup](https://starlight.astro.build/manual-setup/) - Add Starlight to an existing Astro project.
-- [Environment Variables](https://starlight.astro.build/guides/environment-variables/) - Configure environment variables.
 - [Project Structure](https://starlight.astro.build/guides/project-structure/) - Understanding Starlight's file structure.
 
 ### Recipes & How-To Guides
