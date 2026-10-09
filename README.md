@@ -58,6 +58,7 @@
 - [starlight-toc-overview-customizer](https://github.com/trueberryless-org/starlight-toc-overview-customizer) - Tweak Starlight's table of contents with customizable overview title.
 - [starlight-markdown-blocks](https://delucis.github.io/starlight-markdown-blocks/) - Extend Starlight's Markdown asides syntax with custom block types.
 - [starlight-fullview-mode](https://github.com/WindMillCode/starlight-fullview-mode) - Collapse sidebars and expand content for a fullscreen experience.
+- [starlight-ai-actions](https://github.com/xianmi-lib/starlight-ai-actions) - Markdown tools menu and AI-discussion buttons for your documentation pages.
 - [starlight-scroll-to-top](https://github.com/frostybee/starlight-scroll-to-top) - Add a scroll-to-top button to your documentation site.
 - [starlight-codeblock-fullscreen](https://github.com/frostybee/starlight-codeblock-fullscreen) - Add fullscreen toggle functionality to Expressive Code blocks in your documentation.
 - [starlight-auto-drafts](https://github.com/HiDeoo/starlight-auto-drafts) - Tweak draft pages default behavior and automatically remove sidebar links to draft pages in production mode.
@@ -115,6 +116,7 @@
 - [Starlight Theme Next.js](https://starlight-theme-next.trueberryless.org/) - Starlight theme inspired by the Next.js docs.
 - [Starlight Theme Galaxy](https://frostybee.github.io/starlight-theme-galaxy/) - Starlight theme tailored for publishing documentation and educational content.
 - [Starlight Theme Page](https://pelagornis-page.netlify.app/) - An intuitive, modern Starlight theme with smooth, float-in animations.
+- [Large Print](https://www.xianmi.co/starlight/) - Elder-friendly reading theme for Starlight: large serif type, a reader font-size control, warm dark mode, and optional self-hosted CJK webfonts.
 
 ## Components
 
